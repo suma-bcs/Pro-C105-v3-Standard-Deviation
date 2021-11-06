@@ -1,1 +1,2 @@
-# Pro-C105-v3-Standard-Deviation
+# Standard_deviation
+solution for c105
